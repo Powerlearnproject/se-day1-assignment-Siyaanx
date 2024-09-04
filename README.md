@@ -73,8 +73,11 @@ Strategies to overcome these challenges include:
 
 References:
 https://www.productplan.com/glossary/technical-debt
+
 https://www.koombea.com/blog/project-manager-challenges/
+
 https://www.metridev.com/metrics/software-engineering-challenges-overcoming-obstacles/
+
 https://onecodecamp.com/blogdetail/Engineering_Resilience:_Overcoming_Challenges_in_Software_Development
 
 
@@ -84,6 +87,7 @@ The different types of software testing are as follows:
 - Integration testing: This involves testing the interaction between different components or subsystem of the software.
 - System testing: This involves the overall testing of the entire system as a whole.
 - Acceptance testing: This type of testing deals with testing the software against user requirements to ensure that the acceptance criteria based on users’ needs are ticked off.
+ 
 Testing is essential in software quality assurance as this phase helps in ensuring that the software meets quality standards and functional requirements.
 
 
@@ -95,4 +99,5 @@ Prompt engineering is important in the interaction with AI models as it allows t
 ### Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 - Vague prompt: Tell a story of a young girl to me
 - Improved Prompt: Assumming the persona of children-stories teller, tell a sweet short story of a young bright girl who have deep interests in science and arts and live in Lagos state, Nigeria.
+  
 The improved prompt is more effective as it is clear, specific and concise and this provides the AI model with clear instructions and more information to deliver an adequate and context-appropriate response.
